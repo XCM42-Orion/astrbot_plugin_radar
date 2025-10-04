@@ -1,0 +1,5 @@
+name: "astrbot_plugin_radar"
+desc: "获取全国实时雷达图像"
+version: "v1.0"
+author: "M42"
+repo: "https://github.com/XCM42-Orion/astrbot_plugin_radar"
